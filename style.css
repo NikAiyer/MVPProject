@@ -1,0 +1,43 @@
+.center{
+	text-align: center;
+	background-color: #D0D0D0; 
+	color:#F8F8F8 ;
+	margin-top: -20px;
+	border-top: 5px solid #FF6600;
+	border-bottom: 3px solid #FF6600;
+	background-image: url(http://cdn.shopify.com/s/files/1/0467/3217/t/3/assets/hero_banner.jpg?6783);
+}
+.align{
+	text-align:center;
+}
+.color{
+	background-color: #A0A0A0;
+}
+div p{
+	margin-bottom: 20px;
+}
+*{
+	font-family: 'Roboto', sans-serif;
+}
+.mvp{
+	color:white;
+	background-color: #303030;
+	border-bottom: 2px solid #FF6600;
+}
+.party{
+	color:black;
+	background-color: #E8E8E8;
+	border-bottom: 2px solid #FF6600;
+}
+header nav{
+	height:100px;
+	padding-top: 10px;
+}
+header div ul li{
+	padding-top: 15px;
+	padding-right: 50px;
+}
+footer{
+	text-align: right;
+	padding-right: 10px;
+}
